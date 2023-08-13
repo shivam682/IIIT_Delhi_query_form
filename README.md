@@ -13,7 +13,7 @@ Before you begin, make sure you have the following software installed on your sy
 1. **Clone the Repository**: Open your terminal and execute the following command to clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/iiit-delhi-admission-website.git
+   git clone https://github.com/shivam682/IIIT_Delhi_query_form.git
 
 
 1. Start XAMPP Services: Launch the XAMPP control panel and start both the Apache and MySQL services.
