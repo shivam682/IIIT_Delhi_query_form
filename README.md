@@ -20,8 +20,9 @@ Before you begin, make sure you have the following software installed on your sy
 
 1. Start XAMPP Services: Launch the XAMPP control panel and start both the Apache and MySQL services.
 
-  Open XAMPP Control Panel.
-  Start the Apache and MySQL services by clicking the "Start" buttons next to their names.
+  -Open XAMPP Control Panel.
+  
+  -Start the Apache and MySQL services by clicking the "Start" buttons next to their names.
   
 - **Acess the website**: Open your web browser and navigate to http://localhost/IIIT_Delhi_query_form/
 
