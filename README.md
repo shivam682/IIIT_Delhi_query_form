@@ -3,8 +3,6 @@
 Welcome to the IIIT Delhi Admission Query Website! This project provides a simple and interactive platform for users to submit their admission-related queries and details. The entered data is stored locally on your server for easy access.
 
 
-![IIIT Delhi] (https://github.com/shivam682/IIIT_Delhi_query_form/blob/main/website_image.jpg)
-
 - **Video Link** : https://youtu.be/Kx6lzuhM1LQ
 
 ## Prerequisites
