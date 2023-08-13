@@ -25,7 +25,9 @@ Before you begin, make sure you have the following software installed on your sy
 ## Features
 
 1. User-friendly web interface: Enter admission details and queries effortlessly.
+   
 2. Local data storage: User data is securely saved to your local server for easy reference.
+
 3. Simplified interaction: Provides a convenient platform for users interested in IIIT Delhi admissions.
 
 
